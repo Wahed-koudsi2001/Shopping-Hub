@@ -5,5 +5,7 @@ An add to cart website is an online platform that allows users to browse through
 Live demo : https://clotheshub.netlify.app/
 
 1_ Reactjs
+
 2_ Reduxtoolkit
+
 3_ Tailwind
