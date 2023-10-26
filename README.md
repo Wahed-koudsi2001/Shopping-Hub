@@ -7,3 +7,4 @@ Live demo: https://clotheshub.netlify.app/
 1_ Reactjs
 2_ Reduxtoolkit
 3_ Tailwind
+
